@@ -1,4 +1,4 @@
-package com.example.happybirthday
+package com.example.tutorial
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
